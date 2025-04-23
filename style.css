@@ -1,0 +1,68 @@
+.aziz{
+    text-align: center;
+}
+
+.bro{
+    
+}
+body{
+    text-align: center; 
+    background-color: blue;
+}
+
+table{
+    text-align: center;
+    color: white;
+}
+.uz{
+    text-align: center;
+}
+.men{
+    border: 1px solid blanchedalmond;
+    width: 350px;
+height: 350px;
+border-radius: 20px;
+    background-color: rgb(15, 0, 88);
+}
+.imge{
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(15, 0, 88);
+}
+.love{
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    background-color: rgb(15, 0, 88);
+ 
+}
+
+.blo{
+    border: 1px solid blanchedalmond;
+    width: 350px;
+height: 350px;
+border-radius: 20px;
+    background-color: rgb(15, 0, 88);
+}
+p{
+    color: white;
+}
+h3{
+    color: brown
+}
+h1{
+    color: white;
+}
+.san{
+    background-color: brown;
+}
+
+.ular{
+    background-color:  rgb(15, 0, 88);
+}
+
+.buton{
+    background-color: greenyellow;
+    color: rgb(red, green, blue);
+}
